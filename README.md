@@ -8,7 +8,7 @@ Getting Started
 
 
 #### Change directory
-`$ cd pusher-photofeed-ruby`
+`$ cd photo-feed-final
 
 #### Install dependencies
 `$ bundle install`
