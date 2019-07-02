@@ -1,5 +1,7 @@
 # Pusher + Cloudinary + Ruby
 
+![Demo](./demo/demo.gif)
+
 Getting Started
 ------
 
