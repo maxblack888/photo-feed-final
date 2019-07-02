@@ -1,10 +1,10 @@
-# Realtime PhotoFeeds with Pusher + Cloudinary + Ruby
+# Pusher + Cloudinary + Ruby
 
 Getting Started
 ------
 
 #### Clone The Repository
-`$ git clone https://github.com/oreHGA/pusher-photofeed-ruby.git`
+`$ git clone https://github.com/maxblack888/photo-feed-final.git`
 
 
 #### Change directory
