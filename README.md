@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Realtime PhotoFeeds with Pusher + Cloudinary + Ruby
 
 [View tutorial](https://pusher.com/tutorials/photo-sharing-ruby-rails)
@@ -34,3 +35,6 @@ Built With
 ------
 - [Pusher](https://pusher.com) - A Ruby gem to interact with the Pusher REST API
 - [Cloudinary](https://cloudinary.com/) - Cloudinary is a media management platform for web and mobile developers
+=======
+# photo-feed
+>>>>>>> c9543c2ae55e1f47dfb1a8bc2d636034f630974a
