@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Realtime PhotoFeeds with Pusher + Cloudinary + Ruby
 
 Getting Started
