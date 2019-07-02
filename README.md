@@ -30,4 +30,3 @@ Built With
 ------
 - [Pusher](https://pusher.com) - A Ruby gem to interact with the Pusher REST API
 - [Cloudinary](https://cloudinary.com/) - Cloudinary is a media management platform for web and mobile developers
-======
