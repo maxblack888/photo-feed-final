@@ -1,4 +1,5 @@
 # Pusher + Cloudinary + Ruby
+![Demo](demo/ezgif.com-video-to-gif-2.gif)
 
 Getting Started
 ------
