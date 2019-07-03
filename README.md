@@ -9,7 +9,7 @@ Getting Started
 
 
 #### Change directory
-`$ cd photo-feed-final
+`$ cd photo-feed-final`
 
 #### Install dependencies
 `$ bundle install`
@@ -21,10 +21,6 @@ Getting Started
 
 #### Run the app
 `$ rails serve`
-
-Prerequisites
-------
-A basic knowledge of Ruby
 
 
 Built With
