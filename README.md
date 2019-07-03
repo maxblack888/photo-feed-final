@@ -1,4 +1,4 @@
-# Photofeed in Ruby with Pusher and Cloudinary
+# Name, Photo Upload in Ruby with Pusher and Cloudinary
 ![Demo](demo/ezgif.com-video-to-gif-2.gif)
 
 Getting Started
